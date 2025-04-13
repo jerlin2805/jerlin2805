@@ -1,17 +1,25 @@
-## Hi there 👋
-# 👋 Hey there! I'm [Your Name]  
-> Pre-final year CSE student | Cloud & DevOps Enthusiast | Java | AI/ML Projects 🚀
+# 👋 Hello! I'm Jerlin 
 
 
 
-### 🌟 About Me
+### 💼 About Me
 
-- 🎓 Pre-final year CSE student  
-- 💡 Passionate about **cloud computing**, **DevOps**, and **real-time projects**
-- 🧠 Currently building: Helmet & Vest Detection System (YOLOv8 + React UI)  
-- 🧰 Learning: `Spring Boot`, `Java`, `Git`, `React`, `Docker`, `AWS`  
-- 🌈 Lowkey introvert but love tech convos and creative builds  
-- 🦋 Lana Del Rey on loop while coding
+I'm a pre-final year Computer Science student passionate about building scalable, cloud-native applications and exploring the DevOps lifecycle. I enjoy working across the stack, with a strong foundation in Java and hands-on experience with tools that streamline deployment and automation.
+
+---
+
+### 🚀 Interests
+
+- Cloud Computing & Serverless Architecture  
+- DevOps Practices and CI/CD Pipelines  
+- Object-Oriented Programming in Java  
+- Building Full-Stack Applications  
+- Exploring AI/ML Concepts and Applications  
+- Spring Boot & RESTful APIs  
+- Docker & Containerization  
+- React.js for Frontend Development  
+- GitHub Actions for CI/CD  
+- System Design Fundamentals  
 
 ---
 
@@ -19,9 +27,9 @@
 
 ```yaml
 Languages:   Java, Python, C
-Web:         HTML, CSS, JavaScript, React.js
-Cloud:       AWS (Comprehend, Lambda, S3), Firebase (basics)
-Tools:       Git, Docker, Postman, VS Code
-ML/DL:       YOLOv8, TensorFlow, OpenCV
-DevOps:      CI/CD (learning), GitHub Actions
-Databases:   SQLite, MySQL
+Frontend:    HTML, CSS, JavaScript, React.js
+Backend:     Spring Boot (begineer)
+DevOps:      Git, Docker, GitHub Actions
+Cloud:       AWS (S3, Lambda, Comprehend), Firebase (basics)
+Database:    MySQL, SQLite
+Tools:       VS Code, Postman, Figma
